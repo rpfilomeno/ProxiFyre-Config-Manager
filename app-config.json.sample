@@ -1,0 +1,28 @@
+{
+ "logLevel": "Error",
+ "proxies": [
+   {
+     "appNames": [""],
+     "socks5ProxyEndpoint": "oracle.sshvpn.me:1080",
+     "username": "username1",
+     "password": "password1",
+     "supportedProtocols": ["TCP", "UDP"]
+   }
+   {
+     "appNames": ["chrome", "C:\\Program Files\\WindowsApps\\ROBLOXCORPORATION.ROBLOX"],
+     "socks5ProxyEndpoint": "158.101.205.51:1080",
+     "username": "username1",
+     "password": "password1",
+     "supportedProtocols": ["TCP", "UDP"]
+   },
+   {
+     "appNames": ["firefox", "firefox_dev"],
+     "socks5ProxyEndpoint": "127.0.0.1:8080",
+     "supportedProtocols": ["TCP"]
+   }
+ ],
+ "excludes": [
+   "edge",
+   "localservice.exe"
+ ]
+}
