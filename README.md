@@ -5,6 +5,11 @@ A modern Windows GUI application for managing [ProxiFyre](https://github.com/wir
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Go Version](https://img.shields.io/badge/go-%3E%3D1.16-blue.svg)
 
+<img width="880" height="608" alt="Main Window" src="https://github.com/user-attachments/assets/d18b396b-6fca-4e9e-9794-c455c6b329a2" />
+<img width="253" height="152" alt="SysTray" src="https://github.com/user-attachments/assets/f3581825-4827-443e-b335-1512a12b2bf7" />
+
+
+
 ## Features
 
 - ✨ **Intuitive GUI** - Easy-to-use graphical interface for configuration management
